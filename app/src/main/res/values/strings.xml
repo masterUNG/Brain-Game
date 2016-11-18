@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Brain Game</string>
+
+    <string name="title_Main">เกมร์ ของเต้ย</string>
+    <string name="catt1">กลุ่มที่ 1</string>
+    <string name="catt2">กลุ่มที่ 2</string>
+    <string name="catt3">กลุ่มที่ 3</string>
+    <string name="catt4">กลุ่มที่ 4</string>
+
 </resources>
